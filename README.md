@@ -1,4 +1,4 @@
-<h1 align="center">Hey There Shreyash</h1>
+<h1 align="center">Hey There</h1>
 <h3 align="center">I am shreyash , Machine Learning enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
