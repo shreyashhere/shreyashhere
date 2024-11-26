@@ -1,5 +1,4 @@
 <h1 align="left">Shreyash Dinraj Chavan</h1>
-<img align='right' alt='Coding' width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.n-ix.com%2Fmachine-learning-ai%2F&psig=AOvVaw3Ywr_MDOmrJXqDGmdgm1_-&ust=1732732608020000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjW5ZTS-okDFQAAAAAdAAAAABAJ">
 <h3 align="center">I am shreyash , Machine Learning enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
